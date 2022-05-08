@@ -9,7 +9,7 @@ My name is Indrajeet Godse. I'm an Indian trying to be a Frontend Developer with
 
 I like quiet nights in with a mega pint of beer 🍺, some pizza 🤤, a code that is cuurently driving me crazy 💻, and dogs that are keeping me sane 🐶.
 
-### 👨‍💻 Some fun stats:)
+### Some fun stats:
 
 <a href="https://github.com/K1-RA/K1-RA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1-RA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
