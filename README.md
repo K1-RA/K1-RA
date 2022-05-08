@@ -15,9 +15,9 @@ I like quiet nights in with a mega pint of beer 🍺, some pizza 🤤, a code th
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1-RA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
 <a href="https://github.com/K1-RA/K1-RA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=K1-RA&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Birk's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=K1-RA&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="IJ's GitHub Stats" />
 </a>
 
 <a href="https://github.com/K1-RA/Space-pong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=birkkensen&repo=SpacePong&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K1-RA&repo=Space-pong&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
