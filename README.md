@@ -29,3 +29,9 @@ I like quiet nights in with a mega pint of beer 🍺, some pizza 🍕, a code th
 <a href="https://github.com/K1-RA/pig-game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K1-RA&repo=pig-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/K1-RA/moderate-younger-brother-giovani-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K1-RA&repo=moderate-younger-brother-giovani-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/K1-RA/the-white-rabbit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K1-RA&repo=the-white-rabbit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
