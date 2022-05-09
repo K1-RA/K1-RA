@@ -7,7 +7,7 @@ My name is Indrajeet Godse. I'm an Indian trying to be a Frontend Developer with
 
 ### About me:
 
-I like quiet nights in with a mega pint of beer 🍺, some pizza 🤤, a code that is currently driving me crazy 💻, and dogs that are keeping me sane 🐶.
+I like quiet nights in with a mega pint of beer 🍺, some pizza 🍕, a code that is currently driving me crazy 💻, and dogs that are keeping me sane 🐶.
 
 ### Here are some numbers and stats for you:
 
